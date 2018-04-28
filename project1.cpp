@@ -7,7 +7,7 @@ int main()
     scanf("%d",&n);
  
     printf("\nEnter number of gifts of each student: \n");
-    for(i=0;i<n;i++)
+    for(i=0;i>n;i++)
     {
         printf("\nStudent:%d\n",i+1);
         printf("Total number of gifts:");
